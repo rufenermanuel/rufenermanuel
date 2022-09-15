@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rufenermanuel
-- 👀 I’m interested in moving from IT Recruiter to React developer
+- 👀 IT Recruiter interested on Software Development World
 - 🌱 I’m currently learning JS and React
 - 📫 How to reach me: rufenermanuel@gmail.com
 
